@@ -1,9 +1,6 @@
 <h1 align="center">Hello 👋, I'm Kousalya!</h1>
 <h3 align="center">Majoring in Information Science at the University of Maryland College Park, passionate about Data Science, Business Analytics, and Project Management</h3>
 
-- 🌱 Currently working towards attaining the **AWS Cloud Practictioner Certification**
-- 🌱 Learning Data Visualization with **Tableau**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://www.linkedin.com/in/kousalya-potti/" target="_blank" rel="noreferrer"> 
