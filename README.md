@@ -28,18 +28,18 @@ Hi, I'm Kousalya Potti. I'm studying Information Science at the University of Ma
 ### 🛠️ Software and Tools:
 <p>
   <img src="microsoft_power_apps.png" alt="Power Apps" width="40" height="40"/>
-  <img src="powerbi.png" alt="Power BI" width="40" height="40"/>
+  <img src="powerbi.png" alt="Power BI" width="50" height="40"/>
   <img src="power_automate.png" alt="Power Automate" width="40" height="40"/>
  
   <img src="figma.png" alt="Figma" width="40" height="40"/>
-  <img src="tableau.png" alt="Tableau" width="40" height="40"/>
-  <img src="aws.png" alt="AWS" width="40" height="40"/>
+  <img src="tableau.png" alt="Tableau" width="50" height="40"/>
+  <img src="aws.png" alt="AWS" width="65" height="40"/>
   <img src="azure.png" alt="Azure" width="40" height="40"/>
   
   <img src="microsoft_word.png" alt="Word" width="40" height="40"/>
   <img src="microsoft_powerpoint.png" alt="PowerPoint" width="40" height="40"/>
   <img src="microsoft_excel.png" alt="Excel" width="40" height="40"/>
-  <img src="autocad.png" alt="AutoCAD" width="40" height="40"/>
+  <img src="autocad.png" alt="AutoCAD" width="50" height="40"/>
   <img src="revit.png" alt="Revit" width="40" height="40"/>
 </p>
 
