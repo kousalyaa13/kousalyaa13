@@ -86,11 +86,11 @@ Hi, I'm Kousalya Potti. I'm studying Information Science at the University of Ma
 
 ---
 
-## Projects
+## Recent Projects
 
 - **The Mane Box** – Python-based hair care subscription recommender using user preferences and scraped product data.
 - **SafeTravels App** – UI/UX wireframe for a travel safety platform built in Figma with role-based access and alert notifications.
-- **Transit Equity Database** – SQL + Tableau analysis of transit-oriented development and accessibility scores in Maryland.
+- **Transit Equity Database** – SQL analysis of transit-oriented development and accessibility scores in Maryland.
 
 ---
 
