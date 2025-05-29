@@ -55,13 +55,18 @@ Hi, I'm Kousalya Potti. I'm studying Information Science at the University of Ma
 
 ## 📜 Certifications
 
-AWS Cloud Practitioner • Microsoft Azure Fundamentals • Google Project Management  
-IBM SQL for Data Science • Meta Front-End Development • Tableau • Oracle Database Foundations
+- AWS Cloud Practitioner
+- Microsoft Azure Fundamentals
+- Google Project Management
+- IBM SQL for Data Science
+- Meta Front-End Development
+- Oracle Database Foundations
 
 ---
 
 ## 🌱 Currently Learning
 
+- SQL50 through Leetcode
 - Data Structures & Algorithms through CodePath Technical Bootcamp  
 - Full-stack Python/SQL projects  
 - Cloud tools like AWS and Azure
