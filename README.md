@@ -32,7 +32,7 @@ Hi, I'm Kousalya Potti. I'm studying Information Science at the University of Ma
   <img src="power_automate.png" alt="Power Automate" width="40" height="40"/>
  
   <img src="figma.png" alt="Figma" width="40" height="40"/>
-  <img src="tableau.png" alt="Tableau" width="50" height="40"/>
+  <img src="tableau.png" alt="Tableau" width="45" height="40"/>
   <img src="aws.png" alt="AWS" width="65" height="40"/>
   <img src="azure.png" alt="Azure" width="40" height="40"/>
   
