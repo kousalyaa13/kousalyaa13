@@ -1,6 +1,10 @@
 # 👋 Hello, I'm Kousalya!
 
-Hi, I'm Kousalya Potti. I'm studying Information Science at the University of Maryland with a focus on data science, business analytics, and project management. I love working on creative and impactful tech projects — from visualizing cybersecurity threats and decoding drone signals to building user-friendly tools with Power Apps and Figma. I'm currently diving deeper into data structures and algorithms through CodePath’s Technical Bootcamp. I'm driven by the goal of making a big impact through my work and always looking to grow, learn, and collaborate on projects that matter.
+Hi, I'm Kousalya Potti. I'm studying Information Science at the University of Maryland with a passion for solving real-world problems through low-code tools, data, business analytics, and cloud technology. I am currently focusing on building user-focused apps and automations using Power Apps, Power BI, and SQL while applying these skills in real-world settings to streamline operations and support data-driven decisions.
+
+I've worked with local government teams to visualize cybersecurity risks, automate internal workflows, and deliver scalable solutions by blending tools like Azure, AWS, and the Microsoft Power Platform. I'm especially interested in roles at the intersection of cloud, business intelligence, and UX where technology directly improves processes and helps organizations make smarter decisions.
+
+I’ve earned certifications in AWS Cloud Practitioner and Azure Fundamentals, and currently expanding my skills in data analytics, automation, and cloud-based architecture. I am always eager to learn, collaborate, and contribute to high-impact projects that make a difference.
 
 ---
 
