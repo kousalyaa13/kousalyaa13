@@ -102,6 +102,7 @@ I’ve earned certifications in AWS Cloud Practitioner and Azure Fundamentals, a
 
 - AWS Cloud Practitioner
 - Microsoft Azure Fundamentals
+- Microsoft Power Platform Fundamentals
 - Google Project Management
 - IBM SQL for Data Science
 - Meta Front-End Development
