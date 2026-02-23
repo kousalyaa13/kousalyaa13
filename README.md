@@ -102,6 +102,8 @@ I’m especially interested in data analyst, analytics engineer, and data engine
 
 ## Certifications
 
+- Snowflake Fundamentals
+- Databricks Fundamentals
 - AWS Cloud Practitioner
 - Microsoft Azure Fundamentals
 - Microsoft Power Platform Fundamentals
@@ -114,7 +116,6 @@ I’m especially interested in data analyst, analytics engineer, and data engine
 
 ## Currently Learning
 
-- SQL50 through Leetcode
 - Data Structures & Algorithms through CodePath Technical Bootcamp  
 - Full-stack Python/SQL projects  
 - Cloud tools like AWS and Azure
