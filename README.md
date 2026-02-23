@@ -1,10 +1,12 @@
 # 👋 Hello, I'm Kousalya!
 
-Hi, I'm Kousalya Potti. I'm studying Information Science at the University of Maryland with a passion for solving real-world problems through low-code tools, data, business analytics, and cloud technology. I am currently focusing on building user-focused apps and automations using Power Apps, Power BI, and SQL while applying these skills in real-world settings to streamline operations and support data-driven decisions.
+Hi, I'm Kousalya Potti. I'm studying Information Science at the University of Maryland, with an interest in data analytics, data engineering, and applied data science.
 
-I've worked with local government teams to visualize cybersecurity risks, automate internal workflows, and deliver scalable solutions by blending tools like Azure, AWS, and the Microsoft Power Platform. I'm especially interested in roles at the intersection of cloud, business intelligence, and UX where technology directly improves processes and helps organizations make smarter decisions.
+I am currently focusing on building user-focused apps and automations using Power Apps, Power BI, and SQL while applying these skills in real-world settings to streamline operations and support data-driven decisions. My experience includes designing SQL-backed data models, ETL/ELT pipelines, dashboards, and automated workflows using tools such as SQL Server, Snowflake, Databricks, Python, Power BI, and Tableau. I’ve applied these skills in government and research settings to improve data reliability, streamline reporting, and support operational analytics.
 
-I’ve earned certifications in AWS Cloud Practitioner and Azure Fundamentals, and currently expanding my skills in data analytics, automation, and cloud-based architecture. I am always eager to learn, collaborate, and contribute to high-impact projects that make a difference.
+Alongside industry work, I’ve conducted academic research using R for statistical analysis and data visualization, resulting in a peer-reviewed, IRB-approved publication. I enjoy working with real-world datasets, improving data quality, and translating complex data into clear, actionable insights.
+
+I’m especially interested in data analyst, analytics engineer, and data engineer roles, and I’m always looking to learn, collaborate, and contribute to impactful data projects.
 
 ---
 
